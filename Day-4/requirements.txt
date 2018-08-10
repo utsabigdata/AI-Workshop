@@ -1,0 +1,8 @@
+networkx
+tensorflow
+tensorflow_hub
+keras
+matplotlib
+Pillow
+scikit-learn
+scikit-image
