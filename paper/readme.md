@@ -1,7 +1,9 @@
-A Spatio-Temporal Residual Network for Deep Fake Anti-Spoofing
-By Seyed Ali Miraftabzadeh, Arun Das, Paul Rad
+# A Spatio-Temporal Residual Network for Deep Fake Anti-Spoofing
 
-Abstract— With IoT proliferation, a decentralized biometric
+> By Seyed Ali Miraftabzadeh, Arun Das, Paul Rad
+
+## Abstract
+With IoT proliferation, a decentralized biometric
 Access Control System (ACS) is crucial to ensure identity
 consistency in cyber physical space. In this paper, a biometric
 secure modality is proposed based on temporal domain that
@@ -23,6 +25,8 @@ The results presented on YouTube Faces dataset, as well as
 our in-house dataset, are promising to prevent tampering and
 spoofing unauthorized access for both real-time on-line and offline
 identification in decentralized biometrics IoT.
-Index Terms—Deep learning, internet of things, face authentication,
+
+## Index Terms
+Deep learning, internet of things, face authentication,
 spoofing detection, temporal embeddings, time series
 analysis, Chebyshev distance, t-SNE.
