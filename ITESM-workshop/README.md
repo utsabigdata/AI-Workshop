@@ -3,8 +3,7 @@
 <img align="right" height="100"  src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/jetstream.png">
 
 <br />
-
-\s\s
+<h4></h4>
 # Big Data Analytics Bootcamp for Learning Analytics Practitioner
 
 ### Instructor: Dr. Paul Rad
