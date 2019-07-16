@@ -1,14 +1,10 @@
 <img align="left" height="100" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/chameleon.jpg">
 
 <img align="right" height="100"  src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/jetstream.png">
-___
-
 
 <br />
-<br />
 
-
-
+\s\s
 # Big Data Analytics Bootcamp for Learning Analytics Practitioner
 
 ### Instructor: Dr. Paul Rad
