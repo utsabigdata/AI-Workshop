@@ -39,16 +39,16 @@ Graphs arise in various real-world situations, as there are path planning, compu
 
 
 ![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-00.jpeg)<br />
-<img align="left" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-01.jpeg">
-<img align="right" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-02.jpeg">
+<img align="left" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-01.jpeg">
+<img align="right" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-02.jpeg">
 <br />
-<img align="left" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-03.jpeg">
-<img align="right" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-04.jpeg">
+<img align="left" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-03.jpeg">
+<img align="right" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-04.jpeg">
 <br />
-<img align="left" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-05.jpeg">
-<img align="right" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-06.jpeg">
+<img align="left" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-05.jpeg">
+<img align="right" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-06.jpeg">
 <br />
-<img align="left" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-07.jpeg">
-<img align="right" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-08.jpeg">
+<img align="left" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-07.jpeg">
+<img align="right" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-08.jpeg">
 <br />
-<img align="left" width="500" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-09.jpeg">
+<img align="left" width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-09.jpeg">
