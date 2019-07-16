@@ -6,8 +6,10 @@
 
 # Big Data Analytics Bootcamp for Learning Analytics Practitioner
 
-## Instructor: Dr. Paul Rad
-## TAs: Sammuel Silva, Gonzalo De La Torre Parra, and Brandon Lwowski
+### Instructor: Dr. Paul Rad
+### TAs: Sammuel Silva, Gonzalo De La Torre Parra, and Brandon Lwowski
+
+### Workshop Attendance: 40 Doctors from the EGADE Business School (ITESM)
 
 ## Course Materials:
 * [Jupyter Notebooks](https://github.com/utsabigdata/AI-Workshop)
@@ -29,22 +31,24 @@ Linear Algebra and Matrix Computations are the backbone of data science and mach
 Natural language processing (NLP) is one of the most transformative technologies for modern enterprises. In this section we introduce students to text mining and text manipulation algorithms. We start by introducing the structure of text both to the machine and to humans and an overview of the NLP frameworks for manipulating text. We focuse mainly on practical models with many examples and developing functional applications. Overall, this section offers you a complete explanation of the main NLP methods such as Text Data Assembly, Text Data Preprocessing, Model Building, and finally the developing of NLP applications.
 
 *  Deep Learning and Convolutional Neural Network and Tensorflow Programming
-Deep Learning is concerned with computer programs that enable the behavior of a computer to be learned from examples or experience rather than dictated through rules written by hand. While it is essential to learn conceptually how machine learning algorithms work and interact with data, emphasis is placed on effective methodology for using data analytics and machine learning to solve practical problems. We introduce TensorFlow and work through introductory exercises across several domains, including computer vision, natural language processing, and structured data classification. 
+Deep Learning is concerned with computer programs that enable the behavior of a computer to be learned from examples or experience rather than dictated through rules written by hand. While it is essential to learn conceptually how machine learning algorithms work and interact with data, emphasis is placed on effective methodology for using data analytics and machine learning to solve practical problems. We introduce TensorFlow and work through introductory exercises across several domains, including computer vision, natural language processing, and structured data classification.
 
 *  Graph Theory and Network Analysis
 Graphs arise in various real-world situations, as there are path planning, computer networks, and social networks. This workshop will introduce you to graph theory concepts and some of their most import properties. The workshop begins with an understanding of what network analysis is and motivations for why we might model phenomena as graphs. This workshop gives you a broad overview of the field of graph analytics so you can learn new ways to model, store, retrieve, and analyze graph-structured data.
 
-### Workshop Attendance
 
-### 40 Doctors from the EGADE Business School (ITESM)
 
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-00.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-01.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-02.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-03.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-04.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-05.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-06.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-07.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-08.jpeg)
-![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-09.jpeg)
+![alt text](https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-00.jpeg)<br />
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-01.jpeg">
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-02.jpeg">
+<br />
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-03.jpeg">
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-04.jpeg">
+<br />
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-05.jpeg">
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-06.jpeg">
+<br />
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-07.jpeg">
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-08.jpeg">
+<br />
+<img width="300" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-09.jpeg">
