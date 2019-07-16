@@ -1,9 +1,8 @@
 <img align="left" height="100" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/chameleon.jpg">
 
-<img align="right" height="100"  src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/jetstream.png">
+<img align="right" height="90"  src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/jetstream.png">
 
 <br />
-<h4></h4>
 
 # Big Data Analytics Bootcamp for Learning Analytics Practitioner
 
