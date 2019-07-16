@@ -1,12 +1,13 @@
-<img align="left" width="100" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/chameleon.jpg">
+<img align="left" width="150" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/chameleon.jpg">
 
-<img align="right" width="100"  src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/jetstream.png">
----
+<img align="right" width="150"  src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/jetstream.png">
+
+<br />
 
 # Big Data Analytics Bootcamp for Learning Analytics Practitioner
 
 ## Instructor: Dr. Paul Rad
-## TAs: Sammuel Silva, Gonzalo De La Torre Parra, Brandon Lwowski
+## TAs: Sammuel Silva, Gonzalo De La Torre Parra, and Brandon Lwowski
 
 ## Course Materials:
 * [Jupyter Notebooks](https://github.com/utsabigdata/AI-Workshop)
