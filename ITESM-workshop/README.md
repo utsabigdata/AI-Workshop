@@ -1,7 +1,7 @@
 <img align="left" height="100" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/chameleon.jpg">
 
 <img align="right" height="100"  src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/jetstream.png">
-
+___
 
 
 <br />
@@ -53,7 +53,6 @@ Graphs arise in various real-world situations, as there are path planning, compu
 <img width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-05.jpeg">
 <img width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-06.jpeg">
 <br />
-<img width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-07.jpeg">
+<img width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-09.jpeg">
 <img width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-08.jpeg">
 <br />
-<img width="425" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/ws-pic-09.jpeg">
