@@ -4,6 +4,7 @@
 
 <br />
 <h4></h4>
+
 # Big Data Analytics Bootcamp for Learning Analytics Practitioner
 
 ### Instructor: Dr. Paul Rad
