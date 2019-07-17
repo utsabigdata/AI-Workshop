@@ -14,7 +14,7 @@
 ## Course Materials:
 * [Jupyter Notebooks](https://github.com/utsabigdata/AI-Workshop)
 
-#### Summary: The hands-on tutorial presents students witha rigorous introduction to Big Data Analytics. The tutorial consists of six parts: a) The Evolution of AI and Machine Learning; b) Review Python Programming, Data Analytics, and Visualization c) Linear Algebra, Numerical Computing, and Probabilistic Programming; d) Natural language Processing, Text Analytics, and Information Extraction Using Topic Models; e) Graph Theory and Network Analysis.
+#### Summary: The hands-on tutorial presents students with a rigorous introduction to Big Data Analytics. The tutorial consists of six parts: a) The Evolution of AI and Machine Learning; b) Review Python Programming, Data Analytics, and Visualization c) Linear Algebra, Numerical Computing, and Probabilistic Programming; d) Natural language Processing, Text Analytics, and Information Extraction Using Topic Models; e) Graph Theory and Network Analysis.
 
 ## Topics
 
@@ -24,7 +24,7 @@ This session covers foundational AI and Big Data topics and concepts and provide
 
 *  Review Python Programming, Data Analytics, and Visualization
 
-In this section we present a short review of a Python programming environment hosted on a cloud to exploring many different types of big data. Furthernmore, we introduce big data concepts and characteristics along with data manipulation and cleaning techniques using the popular python Pandas data science library and introduce the abstraction of the Series and Data Frame.
+In this section we present a short review of a Python programming environment hosted on a cloud to exploring many different types of big data. Furthermore, we introduce big data concepts and characteristics along with data manipulation and cleaning techniques using the popular python Pandas data science library and introduce the abstraction of the Series and Data Frame.
 
 *  Linear Algebra, Numerical Computing, and Probabilistic Programming
 
@@ -32,7 +32,7 @@ Linear Algebra and Matrix Computations are the backbone of data science and mach
 
 *  Natural language Processing, Text Analytics, and Information Extraction Using Topic Models
 
-Natural language processing (NLP) is one of the most transformative technologies for modern enterprises. In this section we introduce students to text mining and text manipulation algorithms. We start by introducing the structure of text both to the machine and to humans and an overview of the NLP frameworks for manipulating text. We focuse mainly on practical models with many examples and developing functional applications. Overall, this section offers you a complete explanation of the main NLP methods such as Text Data Assembly, Text Data Preprocessing, Model Building, and finally the developing of NLP applications.
+Natural language processing (NLP) is one of the most transformative technologies for modern enterprises. In this section we introduce students to text mining and text manipulation algorithms. We start by introducing the structure of text both to the machine and to humans and an overview of the NLP frameworks for manipulating text. We focus mainly on practical models with many examples and developing functional applications. Overall, this section offers you a complete explanation of the main NLP methods such as Text Data Assembly, Text Data Preprocessing, Model Building, and finally the developing of NLP applications.
 
 *  Deep Learning and Convolutional Neural Network and Tensorflow Programming
 
